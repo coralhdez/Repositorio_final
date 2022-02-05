@@ -1,0 +1,28 @@
+
+body{
+  padding-top: 56px;
+  position: relative;
+}
+
+.fondo-jumbo{
+  background-image: url("../img/1.jpg");
+  background-position: center;
+}
+.logo-font{
+  font-family: 'Roboto', cursive;
+}
+
+.fondo-inferior{
+  background-image: url("../img/decoracion2.jpg");
+
+}
+.fb{
+   font-size: 40px;
+}
+.ig{
+   font-size: 40px;
+     }
+
+.tw{
+  font-size: 40px;
+}
